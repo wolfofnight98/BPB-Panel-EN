@@ -1,6 +1,6 @@
 <h1 align="center">⚡ BPB-Panel EN ⚡</h1>
 <p align="center">
-  <img src="docs/assets/images/Panel.jpg">
+  <img src="">
 </p>
 <br>
 
@@ -25,17 +25,11 @@
 - بعد ورکر را آپلود کنید.
 - بعد به بخش settings بروید و طبق تصویر زیر تنظیمات را روی ورکر خود اعمال کنید.
 
-<p align="center">
-  <img src="docs/assets/images/1.jpg">
-</p>
 
 <p align="center">
-  <img src="docs/assets/images/2.jpg">
+  <img src="images/1.png">
 </p>
 
-<br>
-
-<br>
 
 ## 📜 توضیحات
 - پنل BPB اصلی : https://github.com/bia-pain-bache/BPB-Worker-Panel
