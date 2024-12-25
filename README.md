@@ -37,7 +37,7 @@
 
 <br>
 
-## 📜 توضیحات و...
+## 📜 توضیحات
 - پنل BPB اصلی : https://github.com/bia-pain-bache/BPB-Worker-Panel/
 - مرسی از [@Tead65](https://github.com/Tead65) بابت پیشنهاد تغییر VLESS و Trojan به CVLee و CTLee
 
