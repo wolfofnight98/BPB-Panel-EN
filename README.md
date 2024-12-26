@@ -1,6 +1,6 @@
 <h1 align="center">⚡ BPB-Panel EN ⚡</h1>
 <p align="center">
-  <img src="">
+  <img src="images/panel.png">
 </p>
 <br>
 
@@ -10,7 +10,7 @@
 - کلمه BPB از ورکر حذف شد و با کلمه EN جایگزین شده است.
 - ایموجی 💦 به طور کامل از ورکر حذف شد و با ایموجی ⚡ جایگزین شده است.
 - در بخش kv قسمت Variable name کلمه bpb با en جایگزین شده است.
-- در بخش Variables and Secrets ، کلمه UUID و TROJAN_PASS با ID و PASS جایگزین شده اند (UUID = ID - TROJAN_PASS = PASS)
+- در بخش Variables and Secrets ، کلمه TROJAN_PASS با PASS جایگزین شده اند (TROJAN_PASS = PASS)
 - در داخل کد های ورکر تمامی دستورات VLESS و Trojan با CVLee و CTLee جایگزین شده اند (CVLee = VLESS - CTLee = Trojan)
 
 **این ورکر توسط obfuscator.io مبهم سازی شده!**
