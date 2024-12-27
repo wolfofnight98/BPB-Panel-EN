@@ -30,6 +30,10 @@
   <img src="images/1.png">
 </p>
 
+<p align="center">
+  <img src="images/3.png">
+</p>
+
 
 ## 📜 توضیحات
 - پنل BPB اصلی : https://github.com/bia-pain-bache/BPB-Worker-Panel
