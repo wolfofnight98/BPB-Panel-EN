@@ -1,6 +1,6 @@
 <h1 align="center">💧 BPB-Panel EN 💧</h1>
 <p align="center">
-  <img src="images/panel.png">
+  <img src="images/2.png">
 </p>
 <br>
 
