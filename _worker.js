@@ -11,5 +11,5 @@ js-sha256/src/sha256.js:
    *)
 */
 
-// BPB-Panel-EN - Version: 1.0.6 (2.8.1)
+// BPB-Panel-EN - Version: 1.0.6 (2.8.1) Main
 // GitHub: https://github.com/iErfun/BPB-Panel-EN
