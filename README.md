@@ -24,6 +24,8 @@
 - بعد ورکر را آپلود کنید.
 - بعد به بخش settings بروید و طبق تصویر زیر تنظیمات را روی ورکر خود اعمال کنید.
 
+- [اموزش نصب پنل در Pages](https://github.com/iErfun/BPB-Panel-EN/blob/main/README_PAGES.md)
+
 
 <p align="center">
   <img src="images/1.png">
