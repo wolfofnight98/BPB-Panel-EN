@@ -1,4 +1,4 @@
-<h1 align="center">💧 آموزش نصب پنل در Pages 💧</h1>
+<h1 align="center">💧 آموزش نصب پنل در Pages کلودفلر 💧</h1>
 <br>
 
 برای نصب پنل ابتدا باید فایل [worker.zip](https://github.com/iErfun/BPB-Panel-EN/releases/latest) را دانلود کنید.
