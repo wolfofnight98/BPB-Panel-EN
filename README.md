@@ -1,4 +1,4 @@
-<h1 align="center">❌ BPB-Panel EN ❌</h1>
+<h1 align="center">💧 BPB-Panel EN 💧</h1>
 
 <br>
 
