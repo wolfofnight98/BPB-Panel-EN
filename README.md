@@ -4,7 +4,7 @@
 
 # این پروژه برای همیشه متوقف شده است
 
-دلیل این کار این است که سازنده پنل bpb مشکل 1101 کلودفلر را در ورکر خود برطرف کردند!
+دلیل این کار این است که سازنده پنل bpb مشکل ارور 1101 کلودفلر را در ورکر خود برطرف کردند!
 
 [Bia-Pain-Bache](https://github.com/bia-pain-bache) - BPB Panel V3 » https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/tag/v3
 
