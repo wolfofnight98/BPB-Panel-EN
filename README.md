@@ -19,6 +19,6 @@
 
 درصورت داشتن نیاز به این پنل میتونید ازش استفاده کنید و هیچ مشکلی نداره
 
-اگر نیاز به توضیحات یا راهنمای نصب پنل داشتید روی [اینجا](https://github.com/iErfun/BPB-Panel-EN/blob/main/README_ENPANEL) کلیک کنید
+اگر نیاز به توضیحات یا راهنمای نصب پنل داشتید روی [اینجا](https://github.com/iErfun/BPB-Panel-EN/blob/main/README_ENPANEL.md) کلیک کنید
 
 <br>
