@@ -6,7 +6,7 @@
 
 دلیلش اینه که سازنده پنل bpb ارور 1101 کلودفلر را در ورکر خود برطرف کردند!
 
-BPB Panel » https://github.com/bia-pain-bache/BPB-Worker-Panel/releases/tag/v3
+BPB Panel » https://github.com/bia-pain-bache/BPB-Worker-Panel/releases
 
 <br>
 
