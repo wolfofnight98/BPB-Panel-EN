@@ -1,6 +1,6 @@
 <h1 align="center">💧 BPB-Panel EN 💧</h1>
 <p align="center">
-  <img src="images/2.png">
+  <img src="images/enpanel.png">
 </p>
 <br>
 
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="images/1.png">
+  <img src="images/settings.png">
 </p>
 
 
