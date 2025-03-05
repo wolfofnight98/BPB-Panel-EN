@@ -26,7 +26,7 @@ jobs:
 
       - name: Obfuscate code
         run: |
-          javascript-obfuscator index.js --output unobfs-worker.js \
+          javascript-obfuscator unobfs-worker.js --output obfs-worker.js \
           --compact true \
           --control-flow-flattening true \
           --control-flow-flattening-threshold 1 \
